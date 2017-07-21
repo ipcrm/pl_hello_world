@@ -17,7 +17,7 @@ application.
 </tr>
 </table>
 
-<%= new String("Hello!") %>
+<%= System.out.println("Hello World!") %>
 
 </body>
 </html>
