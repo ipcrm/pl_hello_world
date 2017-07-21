@@ -163,7 +163,15 @@ body {
   }
 }
 
-.logo_img, .logo_img a{
+.logo_img {
+  width: 250px;
+  position: absolute;
+  left: 15px;
+  top: 10px;
+  text-decoration: none;
+}
+
+.logo_img a{
   width: 250px;
   position: absolute;
   left: 15px;
